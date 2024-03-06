@@ -1,2 +1,2 @@
 # python-projects
-This repository contains Python projects
+This repository contains Python projects. 
