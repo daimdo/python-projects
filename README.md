@@ -1,2 +1,2 @@
 # python-projects
-This repository contains Python projects. 
+This is a general repository containing Python projects for learning purposes.
